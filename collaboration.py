@@ -1,1 +1,1 @@
-print('Collaboration is key')
+print('New collaboration feature edy')
